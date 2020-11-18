@@ -1,0 +1,48 @@
+body{
+  background-color: #d7d7d78a;
+  margin-top: 0px;
+  margin-bottom: 0px; 
+}
+
+.container{
+  max-width: 700px;
+  margin: auto;
+  background-color: white;
+  padding: 10px 10px;
+}
+
+.dash{
+  text-align: 
+  center;display: 
+  inline-block;
+  width: 20px;
+  vertical-align: middle;
+}
+
+.inner_item_text{
+  text-align: left;
+  display: inline-block;
+  width: 600px;
+  vertical-align: middle;
+}
+
+.project_date{
+  float: right;
+}
+
+.section_title{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.section_list{
+  margin-top: 0px;
+}
+
+.list_item{
+  margin-top: 15px;
+}
+
+.list_inner_item{
+  margin-top: 5px;
+}
